@@ -1,0 +1,5 @@
+torch==2.0.1            # Adjust the version to match the one you used
+torchvision==0.15.2     # Only if you're using any torchvision utilities
+numpy==1.24.2
+pandas==1.5.3
+scikit-learn==1.2.2
